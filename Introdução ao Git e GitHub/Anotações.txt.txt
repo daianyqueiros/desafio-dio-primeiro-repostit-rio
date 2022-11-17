@@ -3,3 +3,13 @@ O Git bash é um console de terminal estendido para otimizar o uso do Git
 
 Link para o Download do GitHub Desktop: https://desktop.github.com/
 O GitHub Desktop é um aplicativo que permite que você interaja com o GitHub usando uma GUI em vez da linha de comando ou de um navegador web.
+
+Para add novos arquivos no GitHub por bash usar:
+
+Adicionar novo arquivo:  git add. ou -A
+
+Git status (verfificar se esta certo)
+
+Commit: git commit -m "introdução das anotações do curso de Git/GitHub" 
+
+Push: git push origin main 
